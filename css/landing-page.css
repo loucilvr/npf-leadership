@@ -26,10 +26,18 @@ h6 {
     background-color: #4F4F4F !important;
     border-color: #4F4F4F !important;
     height: 70px !important;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 	opacity: .8;
 	color: #fff;
 	text-transform: uppercase;
+}
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 0px !important;
+    font-size: 18px;
+    line-height: 20px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -44,7 +52,7 @@ h6 {
 
 .lead {
     font-size: 18px;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .intro-header {
@@ -52,11 +60,12 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-	width: 110% !important;
+	width: 100% !important;
 	height: 700px;
 	background: url('../img/homeless.jpg') no-repeat center center;
     background-size: cover;
 }
+
 
 .intro-message {
     position: relative;
@@ -123,7 +132,7 @@ h6 {
 }
 
 .section-heading {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .section-heading-spacer {
