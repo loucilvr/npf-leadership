@@ -1600,7 +1600,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 1170;
   }
 }
 .container-fluid {
@@ -4275,7 +4275,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-width: 1px 0 0;
 }
 
-  
+
 }
 .navbar-toggle {
   position: relative;

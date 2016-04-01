@@ -60,11 +60,12 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-	width: 110% !important;
+	width: 100% !important;
 	height: 700px;
 	background: url('../img/homeless.jpg') no-repeat center center;
     background-size: cover;
 }
+
 
 .intro-message {
     position: relative;
