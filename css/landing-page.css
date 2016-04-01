@@ -25,7 +25,7 @@ h6 {
 .navbar-default {
     background-color: #4F4F4F !important;
     border-color: #4F4F4F !important;
-    height: 100px !important;
+    height: 70px !important;
 	margin-bottom: 20px;
 	opacity: .8;
 	color: #fff;
@@ -52,7 +52,9 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/homeless.jpg) no-repeat center center;
+	width: 110% !important;
+	height: 700px;
+	background: url('../img/homeless.jpg') no-repeat center center;
     background-size: cover;
 }
 
