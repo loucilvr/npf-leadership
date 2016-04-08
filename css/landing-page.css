@@ -23,10 +23,8 @@ h6 {
 
 
 /* progress bar code */
-
-
 .progress {
-  position:relative;
+  position: absolute;
   height:40px;
   width: 450px;
 }
