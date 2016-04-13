@@ -49,8 +49,8 @@ h6 {
 /*end progress bar code*/
 
 .navbar-default {
-    background-color: #4F4F4F !important;
-    border-color: #4F4F4F !important;
+    background-color: #1A1A1A !important;
+    border-color: #1A1A1A !important;
     height: 70px !important;
 	margin-bottom: 30px;
 	opacity: .8;
@@ -86,10 +86,10 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-	width: 100% !important;
-	height: 700px;
-	background: url('../img/homeless.jpg') no-repeat center center;
-    background-size: cover;
+	/*width: 100% !important;*/
+	height: 100%;
+	background: url('../img/unhousedintro.png') no-repeat center center;
+    background-size: 110%;
 }
 
 
