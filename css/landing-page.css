@@ -92,6 +92,19 @@ h6 {
     background-size: 110%;
 }
 
+.intro {
+    text-align: center;
+    color: #f8f8f8;
+	/*width: 100% !important;*/
+	height: 100%;
+	position: absolute;
+	top:0;
+	right:0;
+	left:0;
+	bottom:0;
+	overflow: auto;
+}
+
 
 .intro-message {
     position: relative;
@@ -221,4 +234,9 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+
+video {
+	position: relative;
 }
